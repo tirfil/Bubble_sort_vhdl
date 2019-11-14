@@ -1,5 +1,7 @@
 # Bubble sort in vhdl ... just for fun
 
+![alt text](https://github.com/tirfil/Bubble_sort_vhdl/blob/master/bsort.png)
+
 TIMING:
 
 ![alt text](https://github.com/tirfil/Bubble_sort_vhdl/blob/master/WAVEDROM/wavedrom.png)
